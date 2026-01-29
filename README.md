@@ -49,9 +49,9 @@ Para chegar a estes resultados, foram testadas variações de prompts como:
 ---
 
 ## 📚 Fontes Utilizadas
-* [[Inserir Nome/Link da Fonte 1](https://repositorio.fgv.br/server/api/core/bitstreams/efebe7ad-6915-40cf-a149-66f8c3741d84/content)]
-* [[Inserir Nome/Link da Fonte 2](https://pt.wikipedia.org/wiki/Economia_da_felicidade)]
-* [[Inserir Nome/Link da Fonte 3](https://www.youtube.com/watch?v=9jrt7d4KLdI)]
+* [(https://repositorio.fgv.br/server/api/core/bitstreams/efebe7ad-6915-40cf-a149-66f8c3741d84/content)]
+* [(https://pt.wikipedia.org/wiki/Economia_da_felicidade)]
+* [(https://www.youtube.com/watch?v=9jrt7d4KLdI)]
 
 ---
 **Desenvolvido como parte do desafio de Curadoria e IA com NotebookLM.**
